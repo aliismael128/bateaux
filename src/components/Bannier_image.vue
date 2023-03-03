@@ -9,7 +9,7 @@ defineProps({
 
 <template>
 <div id="bannier_image">
-    <a href="#"><img id="img_1" src="/src/components/icons/WEBK.png" alt="#"></a>
+    <a href="#"><img id="img_1" src="/src/components/icons/bannier.png" alt="#"></a>
 </div>
 </template>
 
