@@ -14,7 +14,7 @@ defineProps({
         <li><a href="#"><img src="/src/components/icons/yeux.png" alt="#"> <br> <p class="center"> Yeux</p></a></li>
         <li><a href="#"><img src="/src/components/icons/visage.png" alt="#"> <br> <p class="center"> Visage </p> </a></li>
         <li><a href="#"><img src="/src/components/icons/Crème.png" alt="#"> <br><p class="center"> Créme</p> </a></li>
-        <li><a href="#"><img src="/src/components/icons/Bijoux.png" alt="#"> <br> <p class="center"> Bijoux </p> </a></li>
+        <li><a href="#"><img src="/src/components/icons/bior.png" alt="#"> <br> <p class="center"> Bijoux </p> </a></li>
     </ul>
 </div>
 
